@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Alex C",
+        "age": 2,
+        "address": {
+            "city": "Houston",
+            "state": "Texas"
+        }
+    },
+    {
+        "name": "John G",
+        "age": 40,
+        "address": {
+            "city": "Washington",
+            "state": "Maryland"
+        }
+    },
+    {
+        "name": "Pixie",
+        "age": 22,
+        "address": {
+            "city": "Edison",
+            "state": "Jersey"
+        }
+    }
+]
